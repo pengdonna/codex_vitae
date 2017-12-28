@@ -3,37 +3,38 @@ This Codex Vitae, or “book of life”, is a collection of my beliefs and conce
 *It's about making things explicit.*
 
 <h1> How to Use This Codex </h1>
-**If you are Donna**
+
+If you **_are_** Donna:
 
 * Develop a habit of using the Codex as a repository for beliefs that develop throughout the year.
 * Consider doing a monthly review of whether my life is in alignment with values and beliefs. If not, should my behavior change or have my understanding and values changed?
 * Do a yearly review in January of the entire document, editing places where beliefs have changed. Expect beliefs and tactics to change — don’t hold on to them too rigidly.
 
 
-**If you are not Donna**
+If you **_are not_** Donna
 
 * Read this with the understanding that you are different than Donna — the way she lives her life is not the way you should live yours.
 * Consider creating your own Codex Vitae. Feel free to copy anything here that is helpful.
 
-<h1> In General </h1>
+<h1> Table of contents </h1>
+* [Meta-beliefs](#Meta-beliefs) 
+* Inside-out: on self care and own actions
+* Outside-in: on material and spiritual environment 
 
 
-<h2> Meta-beliefs and meta-skills </h2>
-Beliefs about beliefs, and their application
-[Ribbonfarm post on meta-skills](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/)
+###<h1>Meta-beliefs</h1>
+Beliefs about beliefs, including where they originate and the applicaiton of these beliefs. 
+* see Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills 
 
 
-<h2> Principles </h2>
-Fundamentals that guide my life.
 
-
-<h1> Inside-out: self care and actions </h1>
+<h1> Inside-out: on self care and own actions </h1>
 
 <h2> Food and other consumables </h2>
-*Drugs, Alcohol, etc.*
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
+
 
 <h2> Physical Fitness </h2>
 Beliefs
@@ -60,7 +61,7 @@ Beliefs
 Pre-Decisions
 Aspirations
 
-<h1> Outside-in: material and spiritual environment </h1>
+<h1> Outside-in: on material and spiritual environment </h1>
 
 
 <h2> Abode and the art of living </h2>
@@ -96,17 +97,7 @@ Beliefs
 Pre-Decisions
 Aspirations
 
-<h2> Knowledge management </h2>
-Beliefs
-Pre-Decisions
-Aspirations
-
-<h2> Mindfulness </h2>
-Beliefs
-Pre-Decisions
-Aspirations
-
-<h2> Consciousness </h2>
+<h2> Writing </h2>
 Beliefs
 Pre-Decisions
 Aspirations
