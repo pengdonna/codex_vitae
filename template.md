@@ -18,7 +18,7 @@ If you are ** not Donna**:
 <h1> In General </h1>
 
 
-<h2> Meta-beliefs and meta-skills
+<h2> Meta-beliefs and meta-skills </h2>
 Beliefs about beliefs, and their application
 [Ribbonfarm post on meta-skills](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/)
 
