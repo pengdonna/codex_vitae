@@ -17,90 +17,90 @@ If you **_are not_** Donna
 * Consider creating your own Codex Vitae. Feel free to copy anything here that is helpful.
 
 <h1> Table of contents </h1>
-* [Meta-beliefs](#Meta-beliefs) 
-* Inside-out: on self care and own actions
-* Outside-in: on material and spiritual environment 
+
+* [Meta-beliefs](#meta-beliefs) 
+* [Inside-out: on self care and own actions](#inside-out:-on-self-care-and-own-actions)
+* [Outside-in: on material and spiritual environment](#outside-in:-on-material-and-spiritual-environment)
 
 
-###<h1>Meta-beliefs</h1>
+<h1>Meta-beliefs</h1>
 Beliefs about beliefs, including where they originate and the applicaiton of these beliefs. 
+
 * see Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills 
 
 
 
-<h1> Inside-out: on self care and own actions </h1>
+<h1>Inside-out: on self care and own actions</h1>
 
 <h2> Food and other consumables </h2>
 Perceptions
 Opinions
 Predictions
 
-
 <h2> Physical Fitness </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Productivity </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Intimacy </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Relationships with family and friends </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Purpose and transcendence </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
-<h1> Outside-in: on material and spiritual environment </h1>
+<h1>Outside-in: on material and spiritual environment</h1>
 
 
 <h2> Abode and the art of living </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Money: personal consumption and investment </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Work </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Community </h2>
-*Transactional, emotional, and physical*
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Learning </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h1> On select topics </h1>
 
 <h2> Decision making </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 <h2> Writing </h2>
-Beliefs
-Pre-Decisions
-Aspirations
+Perceptions
+Opinions
+Predictions
 
 
 <h1> Influenced by ... </h1>
