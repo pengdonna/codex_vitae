@@ -1,8 +1,10 @@
-This Codex Vitae, or “book of life”, is a collection of my beliefs and concepts that inform my decisions and life. It is a work in constant flux; as my understanding changes, so will my beliefs. The main purpose of this document is to (1) pull my beliefs into the light where I can questions them more effectively and (2) to share philosophies, concepts, tools, and inspiration that have been helpful to me.
+This Codex Vitae, or “book of life”, is a collection of my beliefs and concepts that inform my decisions and life. It is a work in constant flux; as my understanding changes, so will my beliefs. The main purpose of this document is to 
+1. pull my beliefs into the light where I can questions them more effectively and 
+2. to share philosophies, concepts, tools, and inspiration that have been helpful to me.
 
 *It's about making things explicit.*
 
-<h1> How to Use This Codex </h1>
+<h1> Instructions </h1>
 
 If you **_are_** Donna:
 
@@ -15,13 +17,16 @@ If you **_are not_** Donna
 
 * Read this with the understanding that you are different than Donna — the way she lives her life is not the way you should live yours.
 * Consider creating your own Codex Vitae. Feel free to copy anything here that is helpful.
+________________________________
+
 
 <h1> Table of contents </h1>
 
 * [Meta-beliefs](#meta-beliefs) 
-* [Inside-out: on self care and own actions](#inside-out:-on-self-care-and-own-actions)
-* [Outside-in: on material and spiritual environment](#outside-in:-on-material-and-spiritual-environment)
+* [On self care and own actions](#on-self-care-and-own-actions)
+* [On material and spiritual environment](#on-material-and-spiritual-environment)
 
+__________________________________
 
 <h1>Meta-beliefs</h1>
 Beliefs about beliefs, including where they originate and the applicaiton of these beliefs. 
@@ -30,7 +35,7 @@ Beliefs about beliefs, including where they originate and the applicaiton of the
 
 
 
-<h1>Inside-out: on self care and own actions</h1>
+<h1>On self care and own actions</h1>
 
 <h2> Food and other consumables </h2>
 Perceptions
@@ -62,7 +67,7 @@ Perceptions
 Opinions
 Predictions
 
-<h1>Outside-in: on material and spiritual environment</h1>
+<h1>On material and spiritual environment</h1>
 
 
 <h2> Abode and the art of living </h2>
