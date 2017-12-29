@@ -120,7 +120,7 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 
 ## Intimacy
 + Sharing of vulnerabilities is necessary but insufficient for building intimate relationships
-+ Early [crystallisation] (https://www.brainpickings.org/2012/11/29/stendhal-on-love-crystallization/) in a relationship prevents us from seeing the partner as they truly are, a type of *mauvaise foi*
++ Early [crystallisation](https://www.brainpickings.org/2012/11/29/stendhal-on-love-crystallization/) in a relationship prevents us from seeing the partner as they truly are, a type of *mauvaise foi*
 + Attraction: balance of the familiar and the unknown
 
 ## Purpose and transcendence
