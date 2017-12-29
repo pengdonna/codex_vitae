@@ -30,7 +30,7 @@ ________________________________
 __________________________________
 
 # Meta-beliefs
-Beliefs about beliefs, including where they originate and the applicaiton of these beliefs.
+Beliefs about beliefs, including where they originate and the application of these beliefs.
 
 
 1. My existing beliefs are mental models that, for me, sufficiently explain my perceived experiences
@@ -39,7 +39,7 @@ Beliefs about beliefs, including where they originate and the applicaiton of the
 * All beliefs are wrong, but some are useful
 
 
-2. Evolution of my consciousness means being able to take more persepectives, embodying higher differentation (increasing depth) and higher integration (wider range)
+2. Evolution of my consciousness means being able to take more perspectives, embodying higher differentiation (increasing depth) and higher integration (wider range)
 * Consciousness is the **continuous** stream of interpreted reality
 * The overall trend of evolution is increasing differentiation and integration
 * The evolution of my consciousness is a fractal representation of the universe to which I belong
@@ -48,10 +48,10 @@ Beliefs about beliefs, including where they originate and the applicaiton of the
 
 4. My beliefs are inviting change through new experiences and new perception/interpretation of previous experiences
 * Updating beliefs require having at least a rough inventory of existing beliefs
-* New experiences and perceptions/interpretation can be accidental (always exposing myself to some random events/influences), but they can also come from intentional experiments: testing a belief by putting it to practice
+* New experiences and perceptions/interpretation can be accidental (always exposing myself to some random events/influences), but they can also come from intentional experiments: testing a belief by putting it into practice
 * The Codex Vitae is my tool for advancing these goals
 
-5. I am aware that I adopt new beliefs/update olde beliefs on the following grounds
+5. I am aware that I adopt new beliefs/update olde beliefs as a function of the following trade-offs
 * Congruence with external knowledge base and previous experiences: stability vs. stagnation
 * Demonstration of concern and care for myself and others: rights vs. responsibilities
 * Reflection of the beauty of transient existence in a timeless universe: subjective vs. objective
@@ -59,7 +59,7 @@ Beliefs about beliefs, including where they originate and the applicaiton of the
 Aside: The Codex Vitae probably appeals most to those, like me, have a meta-belief which endorses continuously updating one's beliefs.
 The application this meta-belief is what I would call a meta-skill (See Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills).
 
-The categories for beliefs that I have decised are rougly based on the AQAL framework from [integral theory](https://www.wikiwand.com/en/Integral_theory_(Ken_Wilber))
+The categories for beliefs that I have decicided are roughly based on the AQAL framework from [integral theory](https://www.wikiwand.com/en/Integral_theory_(Ken_Wilber))
 * The category *On self care and own actions* corresponds to the individual end of the framework
 * The category *On material and spiritual environment* corresponds to the collective end of the framework
 * The category *At the confluence*, as its name indicates, addresses issues that straddle these arbitrary divisions
@@ -73,7 +73,7 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 * Sometimes I eat because I am bored and/or stressed, to identify those occasions I can apply the apple test
 
 ## Physical fitness
-* Functional fitness is more important than apperarance
+* Functional fitness is more important than appearance
 * However, insecurity over appearance can be a major obstacle to connecting with others/oneself
 
 ## Family
@@ -84,7 +84,7 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 ## Friendship
 + I most enjoy meeting people in structured group activities and one-on-one conversations
 + I am unsure whether to and how to maintain friendships that no longer benefit from proximity, repeated unplanned interactions
-+ Theoretically, I enjoy the company of others, but in practice it often takes more energy than I can muster
++ Theoretically, I enjoy the company of others, but in practice, it often takes more energy than I can muster
 
 # On material and spiritual environment
 
@@ -99,16 +99,16 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 
 ## Money
 + Money is an important mean to remove constraints (especially on time) but not an end
-+ Being wealthy is not a sin (strong wording...) but human nature (evolutionary morality) abhores inequality
++ Being wealthy is not a sin (strong wording...) but human nature (evolutionary morality) abhors inequality
 
 
 ## Work
 + Being paid for my work is not the only but an important external validation of the value I contribute
 + However, I need to be mindful of the role of the value that I contribute
-  + Am I really creating new value or helping rent-seekig behaviour?
+  + Am I really creating new value or helping rent-seeking behaviour?
   + How is the value created distributed?
-+ Work life balance is a problematic concept, at least on a daily basis
- + It is true that some form of boundary between around work is necessary to prevent it from becoming all encompassing (especially for me)
++ Work-life balance is a problematic concept, at least on a daily basis
+ + It is true that some form of boundary between around work is necessary to prevent it from becoming all-encompassing (especially for me)
  + The nature of my current work means irregular intensity, which I need to adapt to
 
 
@@ -125,8 +125,8 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 
 ## Purpose and transcendence
 + Purposes are a special type of belief that anchors the self-narrative, helpful construct but beware when it gets out of hand
- + A person always come before an idea
-+ Personality theory and astrology are frameworks that attempt to describe different archetypes of self-narrativies
+ + A person always comes before an idea
++ Personality theory and astrology are frameworks that attempt to describe different archetypes of self-narratives
  + The most personal is the most universal
 
 
@@ -136,9 +136,9 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 
 ## Learning
 + Learning can occur within the same decision-making rule set or on the rule set
-  + Single loop learning does not quesetion method or goal
+  + Single loop learning does not question method or goal
   + Double loop learning may involve changing the problem statement
-+ In the process of learning we deconstruct the assumptions which have assissted us thus far, the whole thing is comparable to bootstrapping
++ In the process of learning we deconstruct the assumptions which have assisted us thus far, the whole thing is comparable to bootstrapping
  + ![Throughput of learning](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/rf5.002-1024x576.jpeg)
 + There is a difference between intellectual understanding and embodied understanding
   + Life is a succession of lessons which must be lived to be understood
@@ -184,7 +184,7 @@ A concept developed by the humanistic psychologist Carl Rogers, is the basic acc
 
 
 ## Inspirational Lives
-People who’s lives or work inspire me in mine.
+People whose lives or work inspire me in mine.
 
 + **Simone de Beauvoir**
 + **Eileen Chang**
