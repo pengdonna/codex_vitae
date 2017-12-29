@@ -25,6 +25,7 @@ ________________________________
 * [Meta-beliefs](#meta-beliefs) 
 * [On self care and own actions](#on-self-care-and-own-actions)
 * [On material and spiritual environment](#on-material-and-spiritual-environment)
+* [At the confluence](#at-the-confluence)
 
 __________________________________
 
@@ -58,6 +59,10 @@ Beliefs about beliefs, including where they originate and the applicaiton of the
 Aside: The Codex Vitae probably appeals most to those, like me, have a meta-belief which endorses continuously updating one's beliefs. 
 The application this meta-belief is what I would call a meta-skill (See Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills). 
 
+The categories for beliefs that I have decised are rougly based on the AQAL framework from [integral theory](https://www.wikiwand.com/en/Integral_theory_(Ken_Wilber))
+* The category *On self care and own actions* corresponds to the individual end of the framework
+* The category *On material and spiritual environment* corresponds to the collective end of the framework
+* The category *At the confluence*, as its name indicates, addresses issues that straddle these arbitrary divisions
 
 
 <h1>On self care and own actions</h1>
@@ -72,35 +77,25 @@ Perceptions
 Opinions
 Predictions
 
-<h2> Productivity </h2>
+<h2> Family </h2>
 Perceptions
 Opinions
 Predictions
 
-<h2> Intimacy </h2>
+<h2> Friendship </h2>
 Perceptions
 Opinions
 Predictions
 
-<h2> Relationships with family and friends </h2>
-Perceptions
-Opinions
-Predictions
-
-<h2> Purpose and transcendence </h2>
-Perceptions
-Opinions
-Predictions
 
 <h1>On material and spiritual environment</h1>
 
-
-<h2> Abode and the art of living </h2>
+<h2> Self-expression </h2>
 Perceptions
 Opinions
 Predictions
 
-<h2> Money: personal consumption and investment </h2>
+<h2> Money </h2>
 Perceptions
 Opinions
 Predictions
@@ -111,6 +106,25 @@ Opinions
 Predictions
 
 <h2> Community </h2>
+Perceptions
+Opinions
+Predictions
+
+
+
+<h1> At the confluence </h1>
+
+<h2> Intimacy </h2>
+Perceptions
+Opinions
+Predictions
+
+<h2> Purpose and transcendence </h2>
+Perceptions
+Opinions
+Predictions
+
+<h2> Impact </h2>
 Perceptions
 Opinions
 Predictions
