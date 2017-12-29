@@ -29,9 +29,34 @@ ________________________________
 __________________________________
 
 <h1>Meta-beliefs</h1>
-Beliefs about beliefs, including where they originate and the applicaiton of these beliefs. 
+Beliefs about beliefs, including where they originate and the applicaiton of these beliefs.
 
-* see Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills 
+
+1. My existing beliefs are mental models that, for me, sufficiently explain my perceived experiences
+* A belief is a mental model of causality
+* Humans have bounded rationality, thus we construct partial workable mental maps of reality
+* All beliefs are wrong, but some are useful
+
+
+2. Evolution of my consciousness means being able to take more persepectives, embodying higher differentation (increasing depth) and higher integration (wider range)
+* Consciousness is the **continuous** stream of interpreted reality
+* The overall trend of evolution is increasing differentiation and integration
+* The evolution of my consciousness is a fractal representation of the universe to which I belong
+
+3. Previous beliefs that have served me well are most likely to become the constraints for the next stage of my conscious evolution
+
+4. My beliefs are inviting change through new experiences and new perception/interpretation of previous experiences
+* Updating beliefs require having at least a rough inventory of existing beliefs
+* New experiences and perceptions/interpretation can be accidental (always exposing myself to some random events/influences), but they can also come from intentional experiments: testing a belief by putting it to practice
+* The Codex Vitae is my tool for advancing these goals
+
+5. I am aware that I adopt new beliefs/update olde beliefs on the following grounds
+* Congruence with external knowledge base and previous experiences: stability vs. stagnation
+* Demonstration of concern and care for myself and others: rights vs. responsibilities
+* Reflection of the beauty of transient existence in a timeless universe: subjective vs. objective
+
+Aside: The Codex Vitae probably appeals most to those, like me, have a meta-belief which endorses continuously updating one's beliefs. 
+The application this meta-belief is what I would call a meta-skill (See Ribbonfarm [post](https://www.ribbonfarm.com/2016/06/16/meta-skills-macro-laws-and-the-power-of-constraints/) on meta-skills). 
 
 
 
