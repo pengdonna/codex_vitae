@@ -4,7 +4,7 @@ This Codex Vitae, or “book of life”, is a collection of my beliefs and conce
 
 *It's about making things explicit.*
 
-<h1> Instructions </h1>
+# Instructions
 
 If you **_are_** Donna:
 
@@ -29,7 +29,7 @@ ________________________________
 
 __________________________________
 
-<h1>Meta-beliefs</h1>
+# Meta-beliefs
 Beliefs about beliefs, including where they originate and the applicaiton of these beliefs.
 
 
@@ -65,30 +65,30 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 * The category *At the confluence*, as its name indicates, addresses issues that straddle these arbitrary divisions
 
 
-<h1>On self care and own actions</h1>
-<h2>Food</h2>
+# On self care and own actions
+
 
 * Factory farming causes a large amount of animal suffering, thus a largely vegetable-based diet is more aligned with my values
 * Hallucinogens can induce temporary altered states of consciousness which are desirable, but they cannot be relied on to remain in such states indefinitely
 * Sometimes I eat because I am bored and/or stressed, to identify those occasions I can apply the apple test
 
-<h2>Physical Fitness</h2>
+## Physical fitness
 * Functional fitness is more important than apperarance
 * However, insecurity over appearance can be a major obstacle to connecting with others/oneself
 
-<h2> Family </h2>
+## Family
 + Independence from one's family of origin is necessary before re-integration into it
 + *Ideal* family relationships are narrated by cultures, individual families need to define their own
 
 
-<h2> Friendship </h2>
+## Friendship
 + I most enjoy meeting people in structured group activities and one-on-one conversations
 + I am unsure whether to and how to maintain friendships that no longer benefit from proximity, repeated unplanned interactions
 + Theoretically, I enjoy the company of others, but in practice it often takes more energy than I can muster
 
-<h1>On material and spiritual environment</h1>
+# On material and spiritual environment
 
-<h2> Self-expression </h2>
+## Self-expression
 + The purpose of art, for me, is to meaningfully express myself and engage with the expression of others
 + Reading and writing have been my primary means, I would like to refine them and develop other vehicles, especially those embodied in the actions of daily life
  + Dressing
@@ -97,12 +97,12 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 + Unable to create, we fall prey to consumerism and purchase the ready-made equivalent of self-expression
 + I see living my own life as the ultimate mean of self expression
 
-<h2> Money </h2>
+## Money
 + Money is an important mean to remove constraints (especially on time) but not an end
 + Being wealthy is not a sin (strong wording...) but human nature (evolutionary morality) abhores inequality
 
 
-<h2> Work </h2>
+## Work
 + Being paid for my work is not the only but an important external validation of the value I contribute
 + However, I need to be mindful of the role of the value that I contribute
   + Am I really creating new value or helping rent-seekig behaviour?
@@ -112,29 +112,29 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
  + The nature of my current work means irregular intensity, which I need to adapt to
 
 
-<h2> Community </h2>
+## Community
 + I find participating in/building a community an energy consuming affair, therefore I only consider these activities when I have surplus energy, which rarely happens
 
 
-<h1>At the confluence</h1>
+# At the confluence
 
-<h2> Intimacy </h2>
+## Intimacy
 + Sharing of vulnerabilities is necessary but insufficient for building intimate relationships
 + Early [crystallisation] (https://www.brainpickings.org/2012/11/29/stendhal-on-love-crystallization/) in a relationship prevents us from seeing the partner as they truly are, a type of *mauvaise foi*
 + Attraction: balance of the familiar and the unknown
 
-<h2> Purpose and transcendence </h2>
+## Purpose and transcendence
 + Purposes are a special type of belief that anchors the self-narrative, helpful construct but beware when it gets out of hand
  + A person always come before an idea
 + Personality theory and astrology are frameworks that attempt to describe different archetypes of self-narrativies
  + The most personal is the most universal
 
 
-<h2> Impact </h2>
+##  Impact
 + The impact of our actions is almost never the ones that we have planned
 + It is futile and a waste of energy to worry about the realm over which we have no control
 
-<h2> Learning </h2>
+## Learning
 + Learning can occur within the same decision-making rule set or on the rule set
   + Single loop learning does not quesetion method or goal
   + Double loop learning may involve changing the problem statement
@@ -143,17 +143,17 @@ The categories for beliefs that I have decised are rougly based on the AQAL fram
 + There is a difference between intellectual understanding and embodied understanding
   + Life is a succession of lessons which must be lived to be understood
 
-<h1> On select topics </h1>
+# On select topics
 
-<h2> Decision making </h2>
-
-
-<h2> Habit formation </h2>
+## Decision making
 
 
-<h1> Influenced by ... </h1>
+## Habit formation
 
-<h2> Concepts </h2>
+
+# Influenced by ...
+
+## Concepts
 **Unconditional positive regard**
 A concept developed by the humanistic psychologist Carl Rogers, is the basic acceptance and support of a person regardless of what the person says or does, especially in the context of client-centered therapy.[1] Its founder, Carl Rogers, writes:
 
@@ -161,7 +161,7 @@ A concept developed by the humanistic psychologist Carl Rogers, is the basic acc
 
 
 
-<h2> Books </h2>
+## Books
 
 + 2006: 莲花
 + 2007: Oblivion
@@ -172,7 +172,7 @@ A concept developed by the humanistic psychologist Carl Rogers, is the basic acc
 + 2013: The Evolving Self; Sex, Ecology, Spirituality
 + 2016: Homo Deus
 
-<h2> Quotations </h2>
+## Quotations
 
  "True listening, total concentration on the other, is always a manifestation of love."
 
@@ -183,7 +183,7 @@ A concept developed by the humanistic psychologist Carl Rogers, is the basic acc
 ― Reinhold Niebuhr
 
 
-<h2> Inspirational Lives </h2>
+## Inspirational Lives
 People who’s lives or work inspire me in mine.
 
 + **Simone de Beauvoir**
